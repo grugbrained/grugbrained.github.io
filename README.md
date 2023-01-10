@@ -1,1 +1,1 @@
-# grugbrained.github.io
+![grugbrain](https://grugbrain.dev/grug.png)
